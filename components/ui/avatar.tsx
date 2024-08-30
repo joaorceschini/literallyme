@@ -16,9 +16,14 @@ export default function Avatar() {
         "assets/lain3.gif",
         "assets/lain3.jpg",
         "assets/lain4.gif",
-        "assets/lain4.jpg",
+        "assets/lain5.jpg",
         "assets/lain5.gif",
+        "assets/lain6.jpg",
         "assets/lain6.gif",
+        "assets/lain7.jpg",
+        "assets/lain8.jpg",
+        "assets/lain9.jpg",
+        "assets/lain10.jpg",
         "assets/ryan.jpg",
         "assets/ryan2.jpg",
         "assets/ryan3.jpg",
@@ -34,6 +39,8 @@ export default function Avatar() {
         "assets/fc2.jpg",
         "assets/eren.jpg",
         "assets/eren2.jpg",
+        "assets/eren3.jpg",
+        "assets/eren4.jpg",
         "assets/cb.jpg",
         "assets/cb2.jpg",
         "assets/cb3.jpg",
@@ -75,7 +82,7 @@ export default function Avatar() {
             src={"/" + imageList[currentIndex]}
             alt="pfp"
             fill
-            className="opacity-40"
+            className="opacity-50"
             style={{ objectFit: "cover" }}
             sizes="(max-width: 768px) 50vw, (max-width: 1200px) 33vw"
           />
