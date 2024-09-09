@@ -79,6 +79,7 @@ export default function Home() {
                       </div>
                       <Link
                         href="https://march.cat"
+                        target="_blank"
                         className="opacity-70 hover:underline"
                       >
                         <span>at </span>march
@@ -96,6 +97,7 @@ export default function Home() {
                       </div>
                       <Link
                         href="https://hcode.com.br/"
+                        target="_blank"
                         className="opacity-70 hover:underline"
                       >
                         <span>at </span>hcode
