@@ -96,6 +96,25 @@ export default function Home() {
                       </p>
                     </div>
                   </div>
+                  <div>
+                    <div className="flex flex-col">
+                      <div className="flex justify-between items-center">
+                        <p className="text-base font-bold">
+                          frontend developer
+                        </p>
+                        <p>[09/2024 - present]</p>
+                      </div>
+                      <Link
+                        href="https://march.cat"
+                        className="opacity-70 hover:underline"
+                      >
+                        <span>at </span>march
+                      </Link>
+                    </div>
+                    <div className="flex flex-col ml-2 opacity-70 gap-2">
+                      <p>...</p>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
