@@ -87,7 +87,8 @@ export default function Home() {
                       </Link>
                     </div>
                     <div className="flex flex-col ml-2 opacity-70 gap-2">
-                      <p>...</p>
+                      <p>open source project</p>
+                      <p>frontend dev</p>
                     </div>
                   </div>
                   <div>
