@@ -54,6 +54,38 @@ export default function Home() {
                 </p>
               </div>
             </div>
+            <div className="flex flex-col gap-2">
+              <p className="opacity-70">languages</p>
+              <div className="flex flex-col gap-1">
+                <p>portuguese [native]</p>
+                <p>english [advanced]</p>
+              </div>
+            </div>
+            <div className="flex flex-col gap-2">
+              <p className="opacity-70">extra skills</p>
+              <div className="flex flex-col gap-1">
+                <p>
+                  typing 113wpm 60s english{" "}
+                  <Link
+                    href="https://monkeytype.com/profile/jces"
+                    target="_blank"
+                    className="text-blue-500 hover:underline"
+                  >
+                    /monkeytype
+                  </Link>
+                </p>
+                <p>
+                  mouse aim{" "}
+                  <Link
+                    href="https://aim400kg.com/84137"
+                    target="_blank"
+                    className="text-blue-500 hover:underline"
+                  >
+                    /aim400kg
+                  </Link>
+                </p>
+              </div>
+            </div>
           </div>
           <div className="w-full flex flex-col gap-2 md:flex-row">
             <div className="flex flex-col flex-1 gap-4">
@@ -70,7 +102,7 @@ export default function Home() {
               <div className="flex flex-col gap-2 pb-2 border-b border-dashed border-neutral-800">
                 <h2 className="text-sm">experience</h2>
                 <div className="flex flex-col gap-2 max-h-[250px] pr-2 overflow-y-scroll">
-                  <div>
+                  <div className="flex flex-col gap-1">
                     <div className="flex flex-col">
                       <div className="flex justify-between items-center">
                         <p className="text-base font-bold">
@@ -91,7 +123,7 @@ export default function Home() {
                       <p>frontend dev</p>
                     </div>
                   </div>
-                  <div>
+                  <div className="flex flex-col gap-1">
                     <div className="flex flex-col">
                       <div className="flex justify-between items-center">
                         <p className="text-base font-bold">web developer</p>
