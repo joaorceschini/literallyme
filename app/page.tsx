@@ -75,7 +75,7 @@ export default function Home() {
                         <p className="text-base font-bold">
                           frontend developer
                         </p>
-                        <p>[09/2024 - present]</p>
+                        <p>[09/2024 - 12/2024]</p>
                       </div>
                       <Link
                         href="https://march.cat"
