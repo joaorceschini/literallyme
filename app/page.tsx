@@ -48,8 +48,8 @@ export default function Home() {
               <p className="opacity-70">dev</p>
               <div>
                 <p>
-                  javascript - typescript - html/css - sql [postgres, mysql,
-                  mongodb] - nodejs - react - nextjs - tailwind - git/github -
+                  javascript - typescript - html/css - sql - postgres - mysql -
+                  mongodb - nodejs - react - nextjs - tailwind - git/github -
                   firebase - postman
                 </p>
               </div>
